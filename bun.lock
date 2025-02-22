@@ -11,7 +11,7 @@
         "prettier-plugin-svelte": "^3.3.3",
         "svelte": "^5.20.2",
         "svelte-check": "^4.1.4",
-        "sveltekit-sse": "^0.13.13",
+        "sveltekit-sse": "^0.13.14",
         "typescript": "^5.7.3",
         "vite": "^6.1.1",
       },
@@ -206,7 +206,7 @@
 
     "svelte-check": ["svelte-check@4.1.4", "", { "dependencies": { "@jridgewell/trace-mapping": "^0.3.25", "chokidar": "^4.0.1", "fdir": "^6.2.0", "picocolors": "^1.0.0", "sade": "^1.7.4" }, "peerDependencies": { "svelte": "^4.0.0 || ^5.0.0-next.0", "typescript": ">=5.0.0" }, "bin": { "svelte-check": "bin/svelte-check" } }, "sha512-v0j7yLbT29MezzaQJPEDwksybTE2Ups9rUxEXy92T06TiA0cbqcO8wAOwNUVkFW6B0hsYHA+oAX3BS8b/2oHtw=="],
 
-    "sveltekit-sse": ["sveltekit-sse@0.13.13", "", { "peerDependencies": { "@microsoft/fetch-event-source": "^2.0.1", "@sveltejs/kit": "^2.0.0", "svelte": "^4.0.0 || ^5.0.0-next.0" } }, "sha512-dGMk/a93GAlhBBdBJzShIkw2u3gY2TjDwA3CyNaOgJPyzr3FAXscH14/CvPRiI5oU+dKr8tMu3r3rAEUaJXsZA=="],
+    "sveltekit-sse": ["sveltekit-sse@0.13.14", "", { "peerDependencies": { "@microsoft/fetch-event-source": "^2.0.1", "@sveltejs/kit": "^2.0.0", "svelte": "^4.0.0 || ^5.0.0-next.0" } }, "sha512-xj3AixIoiE1a7bk8wq9qWtlC3qjBU44HeB/IF/4Zw8P2zChC3EFaB5ZdeR/vTEiu/0h/VzowJoR4bPZvxYmkyQ=="],
 
     "totalist": ["totalist@3.0.1", "", {}, "sha512-sf4i37nQ2LBx4m3wB74y+ubopq6W/dIzXg0FDGjsYnZHVa1Da8FH853wlL2gtUhg+xJXjfk3kUZS3BRoQeoQBQ=="],
 
