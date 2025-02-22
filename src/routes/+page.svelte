@@ -8,5 +8,9 @@
 <main>
 	<h2>Admin dashboard page</h2>
 
-	<pre>{JSON.stringify($stats)}</pre>
+	{#if $stats}
+		<span>Cpu usage - {$stats.cpu_usage}</span><br />
+		<span>Memory - {$stats.memory}</span><br />
+		<span>Time - {$stats.time}</span><br />
+	{/if}
 </main>
